@@ -3279,5 +3279,2915 @@
         "content": "Zafer, en çok sabredenindir.",
         "author": "Napoleon Bonaparte",
         "category": 3
-    }
+    },
+     {
+    "id": 547,
+    "content": "Eğer hayalleriniz sizi korkutmuyorsa, çok küçüktürler",
+    "author": "Richard Branson",
+    "category": 3
+  },
+  {
+    "id": 548,
+    "content": "Bugün, istediğiniz yarını inşa etme fırsatınızdır",
+    "author": "Ken Poirot",
+    "category": 3
+  },
+  {
+    "id": 549,
+    "content": "Seni inciten şey seni kutsar",
+    "author": "Mevlana",
+    "category": 3
+  },
+  {
+    "id": 550,
+    "content": "Kendini yeniden inşa eden kırık bir adamdan daha güçlü hiçbir şey yoktur",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 551,
+    "content": "Her zaman dünyaya karşı benim olduğumu düşünürdüm, sonra bir gün bunun sadece bana karşı olduğunu fark ettim",
+    "author": "Kendrick Lamar",
+    "category": 3
+  },
+  {
+    "id": 552,
+    "content": "Bir adam yenildiğinde bitmez. Vazgeçtiğinde biter",
+    "author": "Richard Nixon",
+    "category": 3
+  },
+  {
+    "id": 553,
+    "content": "Dünya sizin fikirlerinizle değil, örnek olmanızla değişir",
+    "author": "Paulo Coelho",
+    "category": 3
+  },
+  {
+    "id": 554,
+    "content": "Hayalinizi inşa etmezseniz, başkaları sizi işe alıp onların hayallerini inşa etmelerine yardımcı olur",
+    "author": "Dhirubhai Ambani",
+    "category": 3
+  },
+  {
+    "id": 555,
+    "content": "Ben bu dünyada senin beklentilerini karşılamak için bulunmuyorum ve sen de benim beklentilerimi karşılamak için bulunmuyorsun",
+    "author": "Bruce Lee",
+    "category": 3
+  },
+  {
+    "id": 556,
+    "content": "Her şeyi yanlış yaparsan geriye doğru olan kalır",
+    "author": "Robin Williams",
+    "category": 3
+  },
+  {
+    "id": 557,
+    "content": "Hayat, kendini yapan insanlara verilir",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 558,
+    "content": "Geleceğinizi tahmin etmenin en iyi yolu onu yaratmaktır",
+    "author": "Abraham Lincoln",
+    "category": 3
+  },
+  {
+    "id": 559,
+    "content": "Başarılı insanlar yetenekli değildir; sadece çok çalışırlar ve sonra bilerek başarılı olurlar",
+    "author": "GK Nielson",
+    "category": 3
+  },
+  {
+    "id": 560,
+    "content": "Saate bakma; onun yaptığını yap. Devam et",
+    "author": "Sam Levenson",
+    "category": 3
+  },
+  {
+    "id": 561,
+    "content": "Asgari ücretli bir iş ahlakı üzerine milyon dolarlık bir hayal kuramazsınız",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 562,
+    "content": "Yapamayacağınızı düşündüğünüz şeyleri yapmalısınız",
+    "author": "Eleanor Roosevelt",
+    "category": 3
+  },
+  {
+    "id": 563,
+    "content": "Farkı yaratan, arada sırada yaptığınız şey değil, her gün yaptığınız şeydir",
+    "author": "Jenny Craig",
+    "category": 3
+  },
+  {
+    "id": 564,
+    "content": "Büyümemizin yolu düşmektir. Ölmemizin yolu ise aşağıda kalmaktır",
+    "author": "Brian Vaszily",
+    "category": 3
+  },
+  {
+    "id": 565,
+    "content": "Zenginlik çok paraya sahip olmakla ilgili değildir, çok sayıda seçeneğe sahip olmakla ilgilidir",
+    "author": "Chris Rock",
+    "category": 3
+  },
+  {
+    "id": 566,
+    "content": "Sizden daha yetenekli insanlar olabilir, ancak sizden daha çok çalışmak için hiçbir mazeretiniz yok",
+    "author": "Derek Jeter",
+    "category": 3
+  },
+  {
+    "id": 567,
+    "content": "Kitleleri takip ederken her zaman dikkatli olun. Bazen 'm' sessizdir",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 568,
+    "content": "Düşersen ben orada olacağım",
+    "author": "Floor",
+    "category": 3
+  },
+  {
+    "id": 569,
+    "content": "Plan A işe yaramadığında endişelenmeyin, hala gözden geçirmeniz gereken 25 mektup daha var",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 570,
+    "content": "Fark yaratmak için çok küçük olduğunuzu düşünüyorsanız, bir sivrisinekle uyumayı deneyin",
+    "author": "Dalay Lama",
+    "category": 3
+  },
+  {
+    "id": 571,
+    "content": "Eğer ilk seferde başarılı olamazsanız, o zaman paraşütle atlama sizin için değildir",
+    "author": "Steven Wright",
+    "category": 3
+  },
+  {
+    "id": 572,
+    "content": "Bir elmas, baskı altında iyi performans gösteren bir kömür parçasından ibarettir",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 573,
+    "content": "Televizyonu çok eğitici buluyorum. Her seferinde biri açtığında, diğer odaya gidip kitap okuyorum",
+    "author": "Groucho Marx",
+    "category": 3
+  },
+  {
+    "id": 574,
+    "content": "Fırsat kapıyı çalmaz, kapıyı çaldığınızda kendini gösterir",
+    "author": "Kyle Chandler",
+    "category": 3
+  },
+  {
+    "id": 575,
+    "content": "Başarısız olmadım. Sadece işe yaramayacak 10.000 yol buldum",
+    "author": "Thomas A. Edison",
+    "category": 3
+  },
+  {
+    "id": 576,
+    "content": "Kimsenin sana sıradan bir yapıştırıcıymışsın gibi davranmasına asla izin verme. Sen simli yapıştırıcısın",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 577,
+    "content": "'Yıldızları sallayabilirsin,' diye fısıldadı. 'Cesaretin varsa her şeyi yapabilirsin. Ve içten içe sen de bunu biliyorsun. Seni en çok korkutan şey bu.'",
+    "author": "Sarah J. Maas",
+    "category": 3
+  },
+  {
+    "id": 578,
+    "content": "Hayatımız ancak şans verdiğimizde iyileşir. Almamız gereken ilk ve en zor risk dürüst olmaktır",
+    "author": "Walter Anderson",
+    "category": 3
+  },
+  {
+    "id": 579,
+    "content": "Hayatın macerası öğrenmektir. Hayatın amacı büyümektir. Hayatın doğası değişmektir. Hayatın zorluğu üstesinden gelmektir. Hayatın özü önemsemektir. Hayatın fırsatı hizmet etmektir. Hayatın sırrı cüret etmektir. Hayatın baharatı arkadaş olmaktır. Hayatın güzelliği vermektir",
+    "author": "William Arthur Ward",
+    "category": 3
+  },
+  {
+    "id": 580,
+    "content": "Değerinizi bildiğinizde, kimse sizi değersiz hissettiremez",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 581,
+    "content": "Eğer hiç ağlarken yemek yemediyseniz, hayatın tadını bilemezsiniz",
+    "author": "Johann Wolfgang von Goethe",
+    "category": 3
+  },
+  {
+    "id": 582,
+    "content": "İnsanları yargılarsanız, onları sevmeye vaktiniz kalmaz",
+    "author": "Rahibe Teresa",
+    "category": 3
+  },
+  {
+    "id": 583,
+    "content": "Sorunun ne olduğunu gerçekten anladığınızda, cevabın ne anlama geldiğini de anlayacaksınız",
+    "author": "Douglas Adams",
+    "category": 3
+  },
+  {
+    "id": 584,
+    "content": "Hayatınızda en önemli iki gün, doğduğunuz gün ve neden doğduğunuzu öğrendiğiniz gündür",
+    "author": "Mark Twain",
+    "category": 3
+  },
+  {
+    "id": 585,
+    "content": "Bize bilmemiz gerekeni öğretene kadar hiçbir şey kaybolmaz",
+    "author": "Pema Chodron",
+    "category": 3
+  },
+  {
+    "id": 586,
+    "content": "Başkalarının içini ancak kendimiz içini görebildiğinde görebiliriz",
+    "author": "Bruce Lee",
+    "category": 3
+  },
+  {
+    "id": 587,
+    "content": "Motivasyon, önemsediğimiz şeyler üzerinde çalışmaktan gelir",
+    "author": "Sheryl Sandberg",
+    "category": 3
+  },
+  {
+    "id": 588,
+    "content": "Eğer bugün dün olduğunuzdan biraz daha iyiyseniz, bu yeterlidir",
+    "author": "David A. Bednar",
+    "category": 3
+  },
+  {
+    "id": 589,
+    "content": "Eğitim, dünyayı değiştirmek için kullanabileceğiniz en güçlü silahtır",
+    "author": "Nelson Mandela",
+    "category": 3
+  },
+  {
+    "id": 590,
+    "content": "Eğer hata yapamazsanız hiçbir şey yapamazsınız",
+    "author": "Marva Collin",
+    "category": 3
+  },
+  {
+    "id": 591,
+    "content": "Pratik ilerlemeyi sağlar, mükemmelliği değil",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 592,
+    "content": "Başarısız olursanız hayal kırıklığına uğrayabilirsiniz, ancak denemezseniz mahvolursunuz",
+    "author": "Beverly Sills",
+    "category": 3
+  },
+  {
+    "id": 593,
+    "content": "Başarısızlık, başarı için ödediğiniz harçtır",
+    "author": "Walter Brunell",
+    "category": 3
+  },
+  {
+    "id": 594,
+    "content": "Hazır olana kadar beklersek, hayatımızın geri kalanını beklemek zorunda kalırız",
+    "author": "Lemony Snicket",
+    "category": 3
+  },
+  {
+    "id": 595,
+    "content": "Başkaları uyurken sen çalış; başkaları boş boş gezerken sen çalış; başkaları oynarken sen hazırlan; ve başkaları dilekte bulunurken sen hayal kur",
+    "author": "William Arthur Ward",
+    "category": 3
+  },
+  {
+    "id": 596,
+    "content": "Beni düzelten insanları gerçekten takdir ediyorum, çünkü onlar olmasaydı uzun süre hatalarımı tekrarlıyor olabilirdim",
+    "author": "Mufti Menk",
+    "category": 3
+  },
+  {
+    "id": 597,
+    "content": "Kafanızın içinde beyniniz var. Ayakkabılarınızın içinde ayaklarınız var. Kendinizi istediğiniz yöne yönlendirebilirsiniz. Kendi başınızasınız. Ve ne bildiğinizi biliyorsunuz. Ve nereye gideceğinize karar verecek olan kişi sizsiniz —Dr. Seuss",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 598,
+    "content": "En iyi intikam büyük bir başarıdır",
+    "author": "Frank Sinatra",
+    "category": 3
+  },
+  {
+    "id": 599,
+    "content": "Korkunun diğer tarafında ne var? Hiçbir şey",
+    "author": "Jamie Foxx",
+    "category": 3
+  },
+  {
+    "id": 600,
+    "content": "Vazgeçenler asla kazanamaz. Kazananlar asla vazgeçmez! —Dr. Irene C. Kassorla",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 601,
+    "content": "Sizi zengin yapan maaşınız değil, harcama alışkanlıklarınızdır",
+    "author": "Charles A. Jaffe",
+    "category": 3
+  },
+  {
+    "id": 602,
+    "content": "Rüzgar yoksa kürek çek",
+    "author": "Latince Atasözü",
+    "category": 3
+  },
+  {
+    "id": 603,
+    "content": "Hayatınızda yeni bir başlangıç ​​için asla geç değildir",
+    "author": "Joyce Meyers",
+    "category": 3
+  },
+  {
+    "id": 604,
+    "content": "Eylem, tüm başarının temel anahtarıdır",
+    "author": "Pablo Picasso",
+    "category": 3
+  },
+  {
+    "id": 605,
+    "content": "Başarıyı hiç hayal etmedim. Onun için çalıştım",
+    "author": "Estée Lauder",
+    "category": 3
+  },
+  {
+    "id": 606,
+    "content": "Bir hedef, son tarihi olan bir rüyadır",
+    "author": "Napoleon Hill",
+    "category": 3
+  },
+  {
+    "id": 607,
+    "content": "Dünyada görmek istediğiniz değişimin kendisi olun",
+    "author": "Mahatma Gandhi",
+    "category": 3
+  },
+  {
+    "id": 608,
+    "content": "Düşünceli, kararlı, küçük bir vatandaş grubunun dünyayı değiştirebileceğinden asla şüphe etmeyin. Gerçekten de, bunu başaran tek şey budur",
+    "author": "Margaret Mead",
+    "category": 3
+  },
+  {
+    "id": 609,
+    "content": "Değişim acı vericidir, ancak hiçbir şey ait olmadığınız bir yerde sıkışıp kalmak kadar acı verici değildir",
+    "author": "Mandy Hale",
+    "category": 3
+  },
+  {
+    "id": 610,
+    "content": "Fikirlerini değiştiremeyenler hiçbir şeyi değiştiremezler",
+    "author": "George Bernard Shaw",
+    "category": 3
+  },
+  {
+    "id": 611,
+    "content": "Herkes dünyayı değiştirmeyi düşünür, ama kimse kendini değiştirmeyi düşünmez",
+    "author": "Leo Tolstoy",
+    "category": 3
+  },
+  {
+    "id": 612,
+    "content": "Değişim hayatın yasasıdır. Ve sadece geçmişe veya bugüne bakanlar geleceği kaçıracaklarından emindirler",
+    "author": "John F. Kennedy",
+    "category": 3
+  },
+  {
+    "id": 613,
+    "content": "Kelebeğin güzelliğinden zevk alırız, ancak o güzelliğe ulaşmak için geçirdiği değişimleri nadiren kabul ederiz",
+    "author": "Maya Angelou",
+    "category": 3
+  },
+  {
+    "id": 614,
+    "content": "Hayaller değişimin tohumlarıdır. Hiçbir şey tohum olmadan büyümez ve hiçbir şey hayal olmadan değişmez",
+    "author": "Debby Boone",
+    "category": 3
+  },
+  {
+    "id": 615,
+    "content": "Kesinlikle sıkıcı olmaktansa tamamen saçma olmak daha iyidir",
+    "author": "Marilyn Monroe",
+    "category": 3
+  },
+  {
+    "id": 616,
+    "content": "Gerçek değişim, kalıcı değişim, adım adım gerçekleşir",
+    "author": "Ruth Bader Ginsburg",
+    "category": 3
+  },
+  {
+    "id": 617,
+    "content": "Yatakta para kazanamayacaksanız yatakta kalmayın",
+    "author": "George Burns",
+    "category": 3
+  },
+  {
+    "id": 618,
+    "content": "Paranızın kontrolünü ele geçirmelisiniz, aksi takdirde paranızın eksikliği sizi sonsuza dek kontrol eder",
+    "author": "Dave Ramsey",
+    "category": 3
+  },
+  {
+    "id": 619,
+    "content": "Yalnızca piyasa 10 yıl boyunca kapalı kalsa bile elinizde tutmaktan mutluluk duyacağınız bir şey satın alın",
+    "author": "Warren Buffett",
+    "category": 3
+  },
+  {
+    "id": 620,
+    "content": "En zengin adam, zevkleri en ucuz olandır",
+    "author": "Henry David Thoreau",
+    "category": 3
+  },
+  {
+    "id": 621,
+    "content": "Para mutluluk satın alamaz ama mutsuz olduğunuzda sizi çok rahat ettirebilir",
+    "author": "Clare Boothe Luce",
+    "category": 3
+  },
+  {
+    "id": 622,
+    "content": "Para sadece bir araçtır. Sizi istediğiniz yere götürür, ancak sürücü olarak sizi değiştiremez",
+    "author": "Jen Sincero",
+    "category": 3
+  },
+  {
+    "id": 623,
+    "content": "Zaten bir finansal tüccarsınız. Bunu sadece bu şekilde düşünmeyebilirsiniz, ancak geçiminizi sağlamak için çalışıyorsanız, zamanınızı parayla takas ediyorsunuz demektir. Açıkçası, yapabileceğiniz en kötü ticaret bu. Neden mi? Her zaman daha fazla para kazanabilirsiniz, ancak daha fazla zaman kazanamazsınız",
+    "author": "Tony Robbins",
+    "category": 3
+  },
+  {
+    "id": 624,
+    "content": "Sadece sevdiğiniz bir şeyde gerçekten başarılı olabilirsiniz. Parayı hedefiniz haline getirmeyin. Bunun yerine sevdiğiniz şeyleri yapın ve sonra onları o kadar iyi yapın ki insanlar gözlerini sizden alamasın",
+    "author": "Maya Angelou",
+    "category": 3
+  },
+  {
+    "id": 625,
+    "content": "Resmi eğitim geçiminizi sağlar; kendi kendinize eğitim ise size bir servet kazandırır —Jim Rohn",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 626,
+    "content": "Vazgeçme, hiçbir şeyi kişisel algılama ve hayır cevabını kabul etme",
+    "author": "Sophia Amoruso",
+    "category": 3
+  },
+  {
+    "id": 627,
+    "content": "İnsanlar sizi reddettiğinde üzülmeyin. Güzel şeyler, onları karşılayamayan insanlar tarafından her zaman reddedilir",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 628,
+    "content": "Değişimin sırrı, tüm enerjinizi eskiyle savaşmaya değil, yeniyi inşa etmeye odaklamaktır",
+    "author": "Sokrates",
+    "category": 3
+  },
+  {
+    "id": 629,
+    "content": "Başarının iki kuralı vardır: 1. Bildiğiniz her şeyi asla ifşa etmeyin",
+    "author": "Roger H. Lincoln",
+    "category": 3
+  },
+  {
+    "id": 630,
+    "content": "Olumlu düşünceyle birleşen olumlu eylemleriniz başarıyla sonuçlanır",
+    "author": "Shiv Khera",
+    "category": 3
+  },
+  {
+    "id": 631,
+    "content": "Başarı tesadüf değildir. Sıkı çalışma, azim, öğrenme, çalışma, fedakarlık ve en önemlisi yaptığınız veya yapmayı öğrendiğiniz şeye olan sevgidir",
+    "author": "Pele",
+    "category": 3
+  },
+  {
+    "id": 632,
+    "content": "Bunun hakkında konuşursanız, bu bir rüyadır. Eğer onu hayal ederseniz, mümkündür. Eğer onu planlarsanız, gerçektir",
+    "author": "Tony Robbins",
+    "category": 3
+  },
+  {
+    "id": 633,
+    "content": "Bahanelerinizi unutun. Ya çok istersiniz ya da hiç istemezsiniz",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 634,
+    "content": "Başarının anahtarı, hazır olmadan önce başlamaktır",
+    "author": "Marie Forleo",
+    "category": 3
+  },
+  {
+    "id": 635,
+    "content": "Deneyen kişi olarak hatırlanmak istiyorum",
+    "author": "Dr. Dorothy Height",
+    "category": 3
+  },
+  {
+    "id": 636,
+    "content": "Gelecek olan, gidenden daha iyidir",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 637,
+    "content": "Tutum bir seçimdir. Mutluluk bir seçimdir. İyimserlik bir seçimdir. Nezaket bir seçimdir. Vermek bir seçimdir. Saygı bir seçimdir. Yaptığınız her seçim sizi siz yapar. Akıllıca seçin",
+    "author": "Roy T. Bennett",
+    "category": 3
+  },
+  {
+    "id": 638,
+    "content": "Hayatın güzelliğine odaklanın. Yıldızları izleyin ve kendinizi onlarla birlikte koşarken görün",
+    "author": "Marcus Aurelius",
+    "category": 3
+  },
+  {
+    "id": 639,
+    "content": "Bugün gelecekteki benliğinizin size teşekkür edeceği bir şey yapın —Bilinmeyen",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 640,
+    "content": "Strese karşı en büyük silah, bir düşünceyi diğerine tercih edebilme yeteneğidir",
+    "author": "William James",
+    "category": 3
+  },
+  {
+    "id": 641,
+    "content": "Kalabalığa katılmak için hiçbir şeye gerek yoktur. Tek başına durmak için her şeye gerek vardır",
+    "author": "Hans F. Hansen",
+    "category": 3
+  },
+  {
+    "id": 642,
+    "content": "Varlığınızın anahtarlarına sahip olan sizsiniz. Kendi mutluluğunuzun pasaportunu siz taşıyorsunuz",
+    "author": "Diane Von Furstenberg",
+    "category": 3
+  },
+  {
+    "id": 643,
+    "content": "Sözcükler ilham verebilir, düşünceler kışkırtabilir, ancak yalnızca eylem sizi hayallerinize gerçekten yaklaştırır",
+    "author": "Brad Sugars",
+    "category": 3
+  },
+  {
+    "id": 644,
+    "content": "Yorulduğunda durma. Bitirdiğinde dur",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 645,
+    "content": "İnsanlara hayallerinizden bahsetmeyin. Onlara hayallerinizi gösterin",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 646,
+    "content": "İntikam güçlü bir motivasyondur",
+    "author": "Marcus Luttrell",
+    "category": 3
+  },
+  {
+    "id": 647,
+    "content": "Motivasyon sizi harekete geçiren şey olabilir, ancak sizi daha fazlası için geri döndüren şey alışkanlıktır",
+    "author": "Miya Yamanouchi",
+    "category": 3
+  },
+  {
+    "id": 648,
+    "content": "Bu hafta hafta sonu olduğu için tüm sıkı çalışmamı silmeyeceğim",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 649,
+    "content": "Kolay olmayabilir, ama buna değecek",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 650,
+    "content": "Kaybetme korkunuzu en büyük motivasyon kaynağınız yapın",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 651,
+    "content": "Her zaman motive olamazsınız, bu yüzden disiplinli olmayı öğrenmelisiniz —Bilinmeyen",
+    "author": null,
+    "category": 3
+  },
+  {
+    "id": 652,
+    "content": "Kendi hayallerini inşa et, yoksa başkası seni kendi hayallerini inşa etmen için işe alır",
+    "author": "Farrah Gray",
+    "category": 3
+  },
+  {
+    "id": 653,
+    "content": "Olabileceğin şey olmak için asla geç değildir",
+    "author": "George Eliot",
+    "category": 3
+  },
+  {
+    "id": 654,
+    "content": "Aşkın matematiğinde, bir ile birin toplamı her şeye eşittir. İki eksi bir ise hiçbir şey demektir",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 655,
+    "content": "Onu çok sevdim. Çünkü sadece ona sarılınca yuva kokuyordu tenim",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 656,
+    "content": "Aşk hiçbir ölçü aleti ile ölçülemez. Sadece hissedilebilir. Sen benim dünyamı cennetin renkleriyle boyadın. Sen benimle olduğun sürece başka hiçbir şey istemiyorum!",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 657,
+    "content": "Issız bir çölde bulduğum vaha misali seviyorum seni. İyi ki varsın, iyi ki sevmişim seni",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 658,
+    "content": "Tam güldüğün zaman başlar şiirler",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 659,
+    "content": "Çünkü her bir zerrem aşık senin her bir zerrene",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 660,
+    "content": "Tebessüm et biraz zira cebimde ilaç alacak param yok",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 661,
+    "content": "Telaşımı mazur gör, ıslandığım ilk yağmurumsun",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 662,
+    "content": "Bir intihar gibisin sen, seve seve edilen",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 663,
+    "content": "Yanlış olduğunu bile bile yolun sonunu düşünmeden yürüdüğüm yolsun sen",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 664,
+    "content": "Onunla tartışmayı, başkasıyla mutlu olmaya değişmem",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 665,
+    "content": "Konu ne zaman senden açılsa bahsini kapatmaya kıyamıyorum",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 666,
+    "content": "Beni bırakıp gittin ve solumda, soluğumda, sonumda kaldın",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 667,
+    "content": "Belki bir gün bir yerde tekrar karşılaşırsak benimle yine tanış ve seni yine seveyim",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 668,
+    "content": "Sen aslında kulağıma değil, yüreğime fısıldadın aşk sözlerini",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 669,
+    "content": "Sen daima gülümse, gülümse ki yüreğinin güzelliği gülüşlerinde teşekkül etsin",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 670,
+    "content": "Bir kişiyi sevmek çok kolay, vazgeçmek ise çok zordur",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 671,
+    "content": "Çok sevilmeye değil, ömür boyu sevilmeye ihtiyacım var",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 672,
+    "content": "Her yüreğin harcı değildir ten tene değmeden sevmek",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 673,
+    "content": "Aşk için önemli olan el ele tutuşmak değil, bir ömür boyu hiç bırakmamaktır",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 674,
+    "content": "Şimdi anladım ki, aşk; her iki tarafı da mağdur eden, yürekte izinsiz gösteri yapan mutluluk karşıtı bir eylemmiş",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 675,
+    "content": "Bugün günlerden ne acaba? Yoksa sensizliğin ertesi günü mü?",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 676,
+    "content": "Gözlerimin içindeki bir devletsin sen. Her sokağında ayrı bir devrim var.",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 677,
+    "content": "Orası çok kalabalıktır sevgili. Bulamam sokaklarında, tanıyamam seni o kalabalık arasında",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 678,
+    "content": "En çok da çayın şekerlisini, aşkın ise sen halini seviyorum sevgili",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 679,
+    "content": "Hadi yüreğim topla kırılmış her bir parçanı da duaya etmeye gidelim. Zira Allah dışında kimse anlamaz bizi",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 680,
+    "content": "Sen oradan bir sevgilim dersin, benim kalbim ise göğüs kafesimin altına sığmaz burada",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 681,
+    "content": "Gerçek aşk, şans oyunları misalidir. Hayali bile mutlu etmeye yeter insanı. Fakat kazanana aşk olsun",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 682,
+    "content": "Seni seviyorum diyenin sevgisinden şüphe et. Çünkü aşk sessiz ve sevgi dilsizdir",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 683,
+    "content": "Aşk insanı hayata, hayat ise insanı aşka bağlarmış",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 684,
+    "content": "Aşkın ilk soluğu ile mantığın son nefesini verirmiş",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 685,
+    "content": "Bir lades tutuşsak seninle. Sen nesine diye sorsan ben sesine derim. Bilirsin yüzün hep aklımdadır benim, ben hep sesini özlerim senin",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 686,
+    "content": "Aşk, herkesi ona benzetip hiç kimseyi onun yerine koyamamaktır",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 687,
+    "content": "Sen benim görmek için bakmaya bile gerek duymadığım manzaramsın",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 688,
+    "content": "O kadar güzel gülüyorsun ki tamam diyorum bu kadar yaşadığım yeter",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 689,
+    "content": "Beni bana en güzel gösteren ayna, bana sevgiyle bakan gözlerindir",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 690,
+    "content": "Hep umutla beklediğim en güzel yarınımsın sen",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 691,
+    "content": "Ben gökyüzü olsam sana gökkuşağı olmak yakışır",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 692,
+    "content": "Sonra mucize diye bir şeyden bahsettiler. Gözlerin geldi aklıma",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 693,
+    "content": "Kimselere söyleme. Ben ‘Seni’ yazarım, onlar şiir zanneder",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 694,
+    "content": "Mutluluk nedir dediler, yanında geçirdiğim anların anlamını anlatamadım",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 695,
+    "content": "Bana şair diyorlar da senin şiir olduğunu göremiyorlar",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 696,
+    "content": "Kimseye bu kadar takılmadı aklım",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 697,
+    "content": "Kimsenin gülüşü yakmadı kalbimi seninki kadar",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 698,
+    "content": "Bir gülüşün etrafa ışıklar saçtığını sen de gördüm",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 699,
+    "content": "O gülüşündeki gamze olmak isterim güzelliğine güzellik katmak için",
+    "author": null,
+    "category": 1
+  },
+  {
+    "id": 700,
+    "content": "Hüzün, kalbin derinliklerinde yankılanan sessiz bir feryattır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 701,
+    "content": "Gözyaşları, hüzünün en saf ifadesidir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 702,
+    "content": "Hüzün, ruhun derinliklerine işleyen en acımasız duygu",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 703,
+    "content": "Hüzün, insanı olgunlaştıran ve ona derinlik katan bir duygudur",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 704,
+    "content": "Hüzünlü anlar, ruhun derinliklerinde saklı kalan kırgınlıkları ortaya çıkarır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 705,
+    "content": "Hüzün, mutluluğun değerini anlamamızı sağlayan bir öğretmen",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 706,
+    "content": "Kalpte hüzün olmasaydı, mutluluğun kıymeti bilinmezdi",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 707,
+    "content": "Hüzün; bazen bir şarkıda, bazen bir şiirde, bazen de sessiz bir akşamda kendini gösterir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 708,
+    "content": "Hüzün, kalbin derinliklerine inen ve ruhu saran bir sis gibidir; bazen yalnızca içindeki sessizliği dinlemeye ihtiyaç duyarsın",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 709,
+    "content": "Her hüzünlü an, hayatın bize fısıldadığı derslerin bir parçasıdır; belki de ruhun olgunlaşmasına yardımcı olan bir yolculuktur",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 710,
+    "content": "Hüzün, gözyaşlarının ardında saklanan bir hikayeyi anlatır; her gözyaşı damlası, kalbin dile getiremediği duyguları taşır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 711,
+    "content": "Bazen hüzün, kalbinin derinliklerinde bir yerlerde unutulmuş anıları yeniden canlandırır; o anılar insana hem acı, hem de huzur verir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 712,
+    "content": "Hüzün, zamanın yavaşça akmasını sağlar ve ruhun derinliklerinde yankılanan duyguları ortaya çıkarır; her nefes, bir hatırayı daha derinleştirir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 713,
+    "content": "Hüzünlü bir ruh, sessizliğin en içten melodilerini duyar; her nota, kalbinin gizli köşelerinde yankılanır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 714,
+    "content": "Hüzün, hayatın kırılganlığına bir övgüdür; her anın kıymetini bilmemizi ve sevginin değerini anlamamızı sağlar",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 715,
+    "content": "Bir hüzün anı, ruhun derinliklerinde bir yankı bırakır; zamanla bu yankı, hayatın diğer seslerine karışarak bir melodi oluşturur",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 716,
+    "content": "Hüzün, kaybolmuş bir mutluluğun izlerini taşır; her iz, kalbinin derinliklerinde saklı bir hatıraya dönüşür",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 717,
+    "content": "Hüzün, içindeki boşluğu doldurmaya çalışan bir fırtınadır; ama bu fırtına, ruhunun derinliklerine inip seni güçlendirebilir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 718,
+    "content": "Gözden düşen her damla gözyaşı, kalbin hüzünlü şarkısının bir parçasıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 719,
+    "content": "Hüzün, ruhun gölgelerinde saklanan gizli bir misafirdir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 720,
+    "content": "Mutluluğun zıttı değildir hüzün; ikisi de aynı kalbin farklı melodileridir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 721,
+    "content": "Hüzün, zamanın yaraları iyileştirme çabasındaki nazik dokunuşudur",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 722,
+    "content": "Hüzün, geçmişin tatlı hatıralarının acı tatlı karışımıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 723,
+    "content": "Kalbin hüzünle dolduğunda, gözlerin ruhunun sessiz çığlıklarını fısıldar",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 724,
+    "content": "Hüzün, bir kaybedişin değil, bir anlam arayışının ifadesidir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 725,
+    "content": "Hüzün, sevginin eksikliğinden değil, sevginin derinliğinden kaynaklanır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 726,
+    "content": "Hüzün, kalbin gözyaşlarıdır; sessizce akar, iz bırakır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 727,
+    "content": "Bir yaprak nasıl düşerse dalından, hüzün de öyle iner yüreğimize",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 728,
+    "content": "Hüzün, kaybedilen bir anın sonsuz yankısıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 729,
+    "content": "Her hüzün, bir hatıranın karanlık gölgesidir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 730,
+    "content": "Hüzün, mutluluğun kardeşi gibidir; biri olmadan diğeri tamamlanmaz",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 731,
+    "content": "Hüzün, umutla iç içe geçen bir duygu selidir; gözyaşlarının ardında hep bir umut saklıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 732,
+    "content": "Hüzün, kalpte bir yaradır; iyileşir ama izi hep kalır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 733,
+    "content": "Hüzün, ruhun en derin köşelerinde gizlenen bir hikayedir",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 734,
+    "content": "Hüzün, sevginin sessiz çığlığıdır; duyulmaz ama yürekte yankılanır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 735,
+    "content": "Kalbimde bir yara var, zamanı durduramadığım anların izlerini taşıyor",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 736,
+    "content": "Bazen sessizlik en derin acının çığlığıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 737,
+    "content": "Gözyaşlarım, ruhumun suskun feryatlarıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 738,
+    "content": "Kaybolmuş anıların gölgesinde, umutlarımı arıyorum",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 739,
+    "content": "Hüzün, kalbime dokunan bir yalnızlık türküsü gibi",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 740,
+    "content": "Geçmişin acıları, geleceğin belirsizliğinde yankılanıyor",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 741,
+    "content": "Bazı yaralar kapanmaz, sadece zamanla alışırız",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 742,
+    "content": "Gözlerimden akan her damla, yüreğimin çığlığıdır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 743,
+    "content": "Hüzün, mutluluğun en yakın dostudur, çünkü her biri diğerini var eder",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 744,
+    "content": "Kayıpların ağırlığı, hayatın kırılganlığını hatırlatır",
+    "author": null,
+    "category": 2
+  },
+  {
+    "id": 745,
+    "content": "Dostluk gerçekten sağlık gibidir; değeri kaybolana kadar anlaşılmaz",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 746,
+    "content": "Hayat zaten kirli, temiz kalmak için dost arayışındayız",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 747,
+    "content": "Herkesin dostu olan, aslında hiç kimsenin dostu değildir!",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 748,
+    "content": "İyi bir arkadaşı olanın kendine bakışında aynaya ihtiyacı yoktur",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 749,
+    "content": "Kaybetmeyi göze alamayacak kadar az sayıda dostum var",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 750,
+    "content": "Gerçek bir arkadaş sahip olmamak, yalnızlığın en kötüsüdür",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 751,
+    "content": "Denizler derin olabilir, ancak dostluğumuz daha derin ve unutulmazdır",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 752,
+    "content": "Dost edinirken dikkatli ol, çünkü düşman bile annen olabilir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 753,
+    "content": "Gerçek dostlar karanlık bastığında yıldızlar gibi belirirler",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 754,
+    "content": "Dostlarınızın omuzlarına yük olmayın, onların yüklerini hafifletin",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 755,
+    "content": "Dostum için ölmeye hazırım, eğer ölecek bir dost bulabilirsem",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 756,
+    "content": "Arkadaşınızın evine sık sık uğrayın, yoksa kullanılmayan yol çalılarla kaplanır",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 757,
+    "content": "Zaman gelir, hayatınızı karartır. Ancak gerçek dostlar sizi aydınlatır",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 758,
+    "content": "Kusursuz bir arkadaş aramak, dostluk istememek demektir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 759,
+    "content": "Kardeş olmayabiliriz ama dostlar her zaman kardeş gibidir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 760,
+    "content": "Gerçek bir arkadaş, arkadaşlığını ispat etmedikçe gerçek dost değildir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 761,
+    "content": "Dost dediğin sizi yere düşürmeyi değil, aksine kaldırmayı bilendir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 762,
+    "content": "Neredesin, yanan alnımı müşfik ellerinle dinlendirecek bilinmeyen dost?",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 763,
+    "content": "Dostlarınız sıkıntıda iken, onları mutlu oldukları zamankinden daha çok arayın",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 764,
+    "content": "Arkadaş uğruna ölmek kolaydır, ancak gerçek bir dost bulmak zordur",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 765,
+    "content": "Dostluk unutulmaz güzellikte, ender insanlarla yaşanacak kadar özeldir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 766,
+    "content": "Beraberken her şeyi unuttuğunuz insanlar var ya, işte onları unutmak çok zor",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 767,
+    "content": "Yolun karanlığında, iyi bir dostla yürümek aydınlık sağlar",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 768,
+    "content": "Sahte dostlar dedikodu yapar, gerçek dostlar ise sizi anlar",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 769,
+    "content": "Dostluk, gül gibidir; yaprağı ve dikenleriyle birlikte gelir",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 770,
+    "content": "Hayatımızda nehirler ve dostlar var; nehirlerde hayallerimizi yüzdürürken, dostlarımız günlerimizi paylaşırlar",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 771,
+    "content": "Dostluklar genellikle ani başlar ve bu yüzden kolayca sonlanabilirler",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 772,
+    "content": "Dostluk, fiziksel yakınlık değil, kalp bağlılığıdır",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 773,
+    "content": "Geride bıraktıklarını düşünme, önemli olan yanında olanlardır",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 774,
+    "content": "Sen bu yalan dünyadaki tek ve en muhteşem gerçeksin dostum. Sen olmasan ben bu hayata nasıl katlanabilirdim?",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 775,
+    "content": "Kankam bana ben mi daha zayıfım yoksa şuradaki kız mı diye sorduğunda, tabii ki kankam derim. O kız isterse Miley Cyrus olsun yine de cevap değişmez. Kankam da kankam…",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 776,
+    "content": "Seninle beraber olduğumuzda asla yalnız değiliz biliyorsun değil mi? Üstelik iki kişi de değiliz… Ama unutma biz seninle gıybet yapmıyoruz, sadece bilgi paylaşıyoruz bankacım!",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 777,
+    "content": "Dünya yansa umurumda mı, sen yanımda olduktan sonra… Kahvemizi yapar keyfimize bakarız",
+    "author": null,
+    "category": 4
+  },
+  {
+    "id": 778,
+    "content": "Hayat bisiklet sürmek benzer. Dengede durabilmek için sürekli hareket halinde olmak gerekir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 779,
+    "content": "Hayal edebileceğiniz kadar her şey gerçek",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 780,
+    "content": "Geleceği satın alabilecek tek şey, bugündür Samuel Johnson",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 781,
+    "content": "Öldükten sonra da hatırlanmak isterseniz ya okunmaya değer şeyler ya da yazılmaya değer şeyler yaşayın",
+    "author": "Benjamin Franklin",
+    "category": 5
+  },
+  {
+    "id": 782,
+    "content": "Yılların, bana öğrettiği şeylerden biri de bu oldu; mutluluğu yakalanmışsan, sorgulama",
+    "author": "Charles Bukowski",
+    "category": 5
+  },
+  {
+    "id": 783,
+    "content": "Kendini, kaybetmekten korktuğun her şeyden vazgeçmek için eğit",
+    "author": "Grand Jedi Master",
+    "category": 5
+  },
+  {
+    "id": 784,
+    "content": "Eğer cesur değilsen samimi olamazsın. Eğer cesur değilsen sevemezsin. Eğer cesur değilsen güvenemezsin. Eğer cesur değilsen, gerçeğin peşine düşemezsin. O yüzden önce cesaret gelir. Ve diğer her şey onu izler",
+    "author": "Osho",
+    "category": 5
+  },
+  {
+    "id": 785,
+    "content": "Başarılı olmak istiyorsanız, başarısızlık oranınızı iki katına çıkarın",
+    "author": "Thomas Watson",
+    "category": 5
+  },
+  {
+    "id": 786,
+    "content": "Ne en güçlü olan tür hayatta kalır, ne de en zeki olan… Değişime en çok adapte olabilendir, hayatta kalan",
+    "author": "Charles R. Darwin",
+    "category": 5
+  },
+  {
+    "id": 787,
+    "content": "Sadece sevmeye başla. Yavaş yavaş… Çok daha fazla sevginin sana geri döndüğünü göreceksin",
+    "author": "Osho",
+    "category": 5
+  },
+  {
+    "id": 788,
+    "content": "İnciler kumsalda bulunmaz; eğer bir tane istiyorsan onun için dalmalısın",
+    "author": "Çin Atasözü",
+    "category": 5
+  },
+  {
+    "id": 789,
+    "content": "İnsan, üretmeden tüketen tek yaratıktır. Süt vermez, yumurta yumurtlamaz, sabanı çekecek gücü yoktur, tavşan yakalayacak kadar hızlı koşamaz. Gene de, tüm hayvanların efendisidir",
+    "author": "Hayvan Çiftliği, George Orwell",
+    "category": 5
+  },
+  {
+    "id": 790,
+    "content": "Zor bir durumdan çıkmanın en iyi yolu, içinden geçmektir",
+    "author": "Robert Frost",
+    "category": 5
+  },
+  {
+    "id": 791,
+    "content": "Nereye gidiyorsun? Sanıyor musun ki gelecekte bir yerde varılacak bir hedef var? Hayat zaten burada! Ne diye geleceği bekleyesin ki? Niye her şeyi geleceğe erteleyesin? Ertelemek intihar etmektir",
+    "author": "Osho",
+    "category": 5
+  },
+  {
+    "id": 792,
+    "content": "Gülmek için mutlu olmayı beklemeyin, belki de gülmeden ölürsünüz",
+    "author": "Victor Hugo",
+    "category": 5
+  },
+  {
+    "id": 793,
+    "content": "Neye sahip olduğumuz değil, neyin keyfine varabildiğimizdir mutluluğu yaratan",
+    "author": "Charles Spurgeon",
+    "category": 5
+  },
+  {
+    "id": 794,
+    "content": "Bazı insanları çevresi yaratır; bazı insanlar ise çevresini yaratır",
+    "author": "The Departed ,2006",
+    "category": 5
+  },
+  {
+    "id": 795,
+    "content": "Bir yerde küçük insanların büyük gölgeleri varsa, o yerde güneş batıyor demektir",
+    "author": "Kong Qiu",
+    "category": 5
+  },
+  {
+    "id": 796,
+    "content": "Kahramanı dışarıda aramayın. Hayatın başkahramanı kendinizsiniz!",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 797,
+    "content": "İki atı aynı anda süremezsiniz. Bir şeyler yapabilirsiniz; ama her şeyi yapamazsınız. Şimdiye odaklanın ve bütün enerjinizi şu anda yaptığınız işe verin",
+    "author": "Albert Einstein",
+    "category": 5
+  },
+  {
+    "id": 798,
+    "content": "Belirlediğiniz yolun sonuna ulaşacak kadar sabırlı mısınız? Posta pullarının gideceği yere varana kadar mektuba yapışıp kalmasından ötürü çok değerli oldukları söylenir. Posta pulu gibi olun ve başladığınız işi bitirin",
+    "author": "Albert Einstein",
+    "category": 5
+  },
+  {
+    "id": 799,
+    "content": "Deneyimden daha güçlü bir öğretmen yoktur; ama öğrenme isteği olmadıkça deneyimden hiçbir şey öğrenilemez.",
+    "author": "George B. Shaw",
+    "category": 5
+  },
+  {
+    "id": 800,
+    "content": "Hayatta büyük başarılarımı her zaman ve her işte bir çeyrek saat önce harekete geçmeme borçluyum",
+    "author": "Oscar Wilde",
+    "category": 5
+  },
+  {
+    "id": 801,
+    "content": "Hayatta en önemli şey kazandıklarımızı kullanmak değildir. Asıl önemli olan kaybettiklerimizden kazanç elde etmemizdir. Bu ise zeka gerektirir; akıllı insanlarla aptal insanlar arasındaki en büyük fark budur",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 802,
+    "content": "Doğruluk tıpkı bir güneş gibidir. Elbet her gecenin sabahında doğar",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 803,
+    "content": "Boş geçen bir zaman yoktur. Ancak boşa harcanmış bir zaman vardır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 804,
+    "content": "Gömleğin düğmelerini iliklemeye benzer hayat. Yolun başında hata yaptığını sonuna gelmeden anlayamazsın",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 805,
+    "content": "İnsan fırsatların gelmesini bekler, fırsatlar da insanın gelmesini. Fırsatlar bekler, insan bekler; kazanan hep mazeret olur",
+    "author": "Paulo Coelho",
+    "category": 5
+  },
+  {
+    "id": 806,
+    "content": "Aldığın her nefesi fırsat bil. Ot değilsin, yeniden bitmezsin",
+    "author": "Ömer Hayyam",
+    "category": 5
+  },
+  {
+    "id": 807,
+    "content": "Yanlış zamanda karşılaşılan mükemmel insanlar vardır. Bir de doğru zamanda karşılaştığınız için mükemmel olan insanlar",
+    "author": "David Foenkinos",
+    "category": 5
+  },
+  {
+    "id": 808,
+    "content": "İyilik yap hatırlanmaz, yanlış yap unutulmaz. Sen kimsenin yapamam dediğini yap. Çünkü söylemeseler de akıllarından çıkmaz",
+    "author": "Lev Tolstoy",
+    "category": 5
+  },
+  {
+    "id": 809,
+    "content": "Kendi ışığına güvenen, başkasının parlamasından rahatsızlık duymaz",
+    "author": "Victor Hugo",
+    "category": 5
+  },
+  {
+    "id": 810,
+    "content": "Neyi bulmak istediğini bilmeden sürekli aramaya kalkma. Hiçbir şey bulamazsın. Ancak inanarak, bilerek ve kendini vererek aradığını bulabilirsin. Unutma! Bal arısı çiçeğe konan tek böcek değildir; fakat ondan bal çekmeyi bilen yalnız odur",
+    "author": "Johann Wolfgang von Goethe",
+    "category": 5
+  },
+  {
+    "id": 811,
+    "content": "Kalbe zarar veren iki şey vardır: Gam ve kaygı. Gam uyku getirir; kaygı ise uyutmaz",
+    "author": "Hipokrat",
+    "category": 5
+  },
+  {
+    "id": 812,
+    "content": "Hayatın yol ayrımında yön levhası yoktur",
+    "author": "Charlie Chaplin",
+    "category": 5
+  },
+  {
+    "id": 813,
+    "content": "En karanlık gece bile sona erer ve güneş tekrar doğar",
+    "author": "Victor Hugo",
+    "category": 5
+  },
+  {
+    "id": 814,
+    "content": "Kimseye kirli ayaklarıyla beyninizde gezme fırsatı vermeyin",
+    "author": "Mahatma Gandi",
+    "category": 5
+  },
+  {
+    "id": 815,
+    "content": "Eğer yürüdüğünüz yolda hiçbir engel yoksa, o yol sizi hiçbir yere götürmez",
+    "author": "George B. Shaw",
+    "category": 5
+  },
+  {
+    "id": 816,
+    "content": "Tecrübelerimin bana öğrettiği bir şey var: Hayallerinin peşinden emin adımlarla yürüyen ve arzu ettiği hayatı yaşamak için gayret sarf eden insanlar, beklenmedik bir anda başarıyla karşılaşırlar",
+    "author": "Henry D. Thoreau",
+    "category": 5
+  },
+  {
+    "id": 817,
+    "content": "Beş yıl sonra olacağın insan, tamamen bu gün okuduğun kitaplara, izlediğin filmlere, dizilere, zaman harcadığın insanlara, tükettiğin gıdalara, alışkanlıklarına ve giriştiğin yazışmalara, konuşmalara göre şekillenecek",
+    "author": "Ruben Chavez",
+    "category": 5
+  },
+  {
+    "id": 818,
+    "content": "Bazen, her şey darmadağın oluyormuş gibi görünürken, aslında taşlar yerine oturuyor olabilir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 819,
+    "content": "Benim bakış açıma göre, gökkuşağını istiyorsan yağmura katlanmalısın!",
+    "author": "Dolly Parton",
+    "category": 5
+  },
+  {
+    "id": 820,
+    "content": "Hayattaki başarısızlıkların çoğu, pes ettiklerinde başarıya ne kadar yakın olduklarını fark edemeyen insanlara aittir",
+    "author": "Thomas A. Edison",
+    "category": 5
+  },
+  {
+    "id": 821,
+    "content": "Büyük şeyler yapamıyorsanız, küçük şeyleri büyük bir şekilde yapın",
+    "author": "Napoleon Hill",
+    "category": 5
+  },
+  {
+    "id": 822,
+    "content": "Mevcut koşullarınız nereye gidebileceğinizi belirlemez; yalnızca nereden başlayacağınızı belirler",
+    "author": "Nido Qubein",
+    "category": 5
+  },
+  {
+    "id": 823,
+    "content": "Hayatınızda en önemli iki gün, doğduğunuz gün ve neden doğduğunuzu öğrendiğiniz gündür",
+    "author": "Mark Twain",
+    "category": 5
+  },
+  {
+    "id": 824,
+    "content": "İmkansızı başarmak eğlenceli bir şey…",
+    "author": "Walt Disney",
+    "category": 5
+  },
+  {
+    "id": 825,
+    "content": "Kazanmakla kaybetmek arasındaki fark çoğu zaman vazgeçmemektir",
+    "author": "Walt Disney",
+    "category": 5
+  },
+  {
+    "id": 826,
+    "content": "Hayat size her şeyi öylece vermez. Dışarı çıkıp bir şeyler yapmalısınız. Heyecan verici olan kısım budur",
+    "author": "Emeril Lagasse",
+    "category": 5
+  },
+  {
+    "id": 827,
+    "content": "Her şey mükemmel olsaydı, asla öğrenemez ve asla büyüyemezdin",
+    "author": "Beyonce Knowles",
+    "category": 5
+  },
+  {
+    "id": 828,
+    "content": "Gözlerinizi kapalı tutarsanız en güzel şeyleri kaçırırsınız",
+    "author": "Dr. Seuss",
+    "category": 5
+  },
+  {
+    "id": 829,
+    "content": "Her zaman hayal edin ve yapabileceğinizi bildiğinizden daha yükseğe nişan alın. Sadece çağdaşlarınızdan veya öncüllerinizden daha iyi olmak için uğraşmayın. Kendinizden daha iyi olmaya çalışın",
+    "author": "William Faulkner",
+    "category": 5
+  },
+  {
+    "id": 830,
+    "content": "Öyle mutlu ol ki, diğer insanlar sana baktığında onlar da mutlu olsun",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 831,
+    "content": "Sadece bir kez yaşarsınız, ama doğru yaparsanız, bir kez yeter",
+    "author": "Mae West",
+    "category": 5
+  },
+  {
+    "id": 832,
+    "content": "Bir şeyden hoşlanmıyorsanız, onu değiştirin. Değiştiremiyorsanız, tavrınızı değiştirin",
+    "author": "Maya Angelou",
+    "category": 5
+  },
+  {
+    "id": 833,
+    "content": "Yıllar içinde öğrendim ki, bir kişi kararını verdiğinde korku azalır; ne yapılması gerektiğini bilmek korkuyu ortadan kaldırır",
+    "author": "Rosa Paris",
+    "category": 5
+  },
+  {
+    "id": 834,
+    "content": "Değişimden anlam çıkarmanın tek yolu, değişime dalmak, onunla birlikte hareket etmek ve dansa katılmaktır",
+    "author": "Alan Wilson Watts",
+    "category": 5
+  },
+  {
+    "id": 835,
+    "content": "Düne dönmenin bir faydası yok, çünkü o zaman farklı bir insandım",
+    "author": "Lewis Carroll",
+    "category": 5
+  },
+  {
+    "id": 836,
+    "content": "Kelebeğin güzelliğinden zevk alırız, ancak o güzelliğe ulaşmak için geçirdiği değişimleri nadiren kabul ederiz",
+    "author": "Maya Angelou",
+    "category": 5
+  },
+  {
+    "id": 837,
+    "content": "Başka bir kişiyi veya başka bir zamanı beklersek değişim gelmeyecektir. Biz, beklediğimiz kişileriz. Aradığımız değişim biziz",
+    "author": "Barack Obama",
+    "category": 5
+  },
+  {
+    "id": 838,
+    "content": "Kıyıyı uzun süre gözden kaybetmeye razı olmadan yeni topraklar keşfedilemez",
+    "author": "André Gide",
+    "category": 5
+  },
+  {
+    "id": 839,
+    "content": "Zorluklar bizi yeni bir ağırlık merkezi aramaya zorlayan hediyelerdir. Onlarla savaşmayın. Sadece ayakta durmanın yeni bir yolunu bulun",
+    "author": "Oprah Winfrey",
+    "category": 5
+  },
+  {
+    "id": 840,
+    "content": "Gerçek değişim, kalıcı değişim, adım adım gerçekleşir",
+    "author": "Ruth Bader Ginsburg",
+    "category": 5
+  },
+  {
+    "id": 841,
+    "content": "Başarının, kişinin hayatta ulaştığı noktadan çok, başarılı olmaya çalışırken aşmak zorunda kaldığı engellerle ölçülmesi gerektiğini öğrendim",
+    "author": "Booker T. Washington",
+    "category": 5
+  },
+  {
+    "id": 842,
+    "content": "Bir çocuk, bir öğretmen, bir kitap ve bir kalem dünyayı değiştirebilir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 843,
+    "content": "Artık değiştiremeyeceğim şeyleri kabul etmiyorum. Kabul edemediğim şeyleri değiştiriyorum",
+    "author": "Angela Y. Davis",
+    "category": 5
+  },
+  {
+    "id": 844,
+    "content": "Var olmanın sırrı, her anın içinde saklıdır; anı yaşamak, sırrı çözmektir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 845,
+    "content": "Düşüncelerinizi değiştirirseniz, dünyanızı değiştirirsiniz",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 846,
+    "content": "Zaman, yaşamın yazarıdır, her anı bir hikayeye dönüştürür",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 847,
+    "content": "Bilgelik, doğru soruları sormakta değil, yanıtlar arasında yolculuk yapmaktadır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 848,
+    "content": "Hayat, bir gölge oyunu gibidir; gerçek, ışığın nereden geldiğine bağlıdır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 849,
+    "content": "Yaşam, kırılgan bir camdan daha değerlidir, bir kez kırıldığında asla aynı şekilde toplanamaz",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 850,
+    "content": "Gerçek zenginlik, sahip olduklarımız değil, tadını çıkardıklarımızdır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 851,
+    "content": "Bir insanın yolculuğu, ayak izleriyle değil, attığı adımların anlamıyla ölçülür",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 852,
+    "content": "Her son, başka bir başlangıcın gölgesidir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 853,
+    "content": "Hayat, mücadelelerle dolu bir kitap gibidir; her sayfayı çevirmek, yeni bir anlamı keşfetmektir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 854,
+    "content": "Düşünmek, var olmanın gizemini derinleştirmektir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 855,
+    "content": "Kendi gölgenizden kaçamazsınız; nereye giderseniz gidin, orada sizinle birliktedir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 856,
+    "content": "Bir insanın hayatı, onun anlatılmamış hikayeleriyle ölçülür",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 857,
+    "content": "İç huzuru, dış dünyadaki kaosun üstesinden gelmenin anahtarıdır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 858,
+    "content": "Kendini bilmeyen Rabbinin kudretini de bilemez",
+    "author": "Hz. Ali",
+    "category": 5
+  },
+  {
+    "id": 859,
+    "content": "Bir saat tefekkür, bir sene nafile ibadetten daha hayırlıdır",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 860,
+    "content": "Sizin en hayırlınız ahlâkı en güzel olanınızdır",
+    "author": "Hz. Muhammed",
+    "category": 5
+  },
+  {
+    "id": 861,
+    "content": "Kötülüğü engellemek, iyiliği emretmekten daha önceliklidir",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 862,
+    "content": "İnsanların en kötüsü, iyiliği kötülükle karşılayan ve insanların en iyisi kötülüğe karşı iyilik yapandır",
+    "author": "Hz. Ali",
+    "category": 5
+  },
+  {
+    "id": 863,
+    "content": "İnsanlara merhamet etmeyene Allah da merhamet etmez",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 864,
+    "content": "Allah’tan korkun ve çocuklarınız arasında adaletli olun!",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 865,
+    "content": "Bir şeyden pişmanlık duymak istemiyorsan, her şeyi Allah için yap",
+    "author": null,
+    "category": 5
+  },
+  {
+    "id": 866,
+    "content": "Bir mum diğer bir mumu tutuşturmakla ışığından bir şey kaybetmez",
+    "author": "Hz. Mevlâna",
+    "category": 5
+  },
+  {
+    "id": 867,
+    "content": "Ayağına batan dikenler aradığın gülün habercisidir",
+    "author": "Hz. Mevlâna",
+    "category": 5
+  },
+  {
+    "id": 868,
+    "content": "Girdim ilim meclisine eyledim talep, dediler ilim geride illâ edep illâ edep",
+    "author": "Yunus Emre",
+    "category": 5
+  },
+  {
+    "id": 869,
+    "content": "Tanrı’nın yolu mükemmeldir; RABB’in sözü her zaman güvenilirdir",
+    "author": "Hz. Musa",
+    "category": 5
+  },
+  {
+    "id": 870,
+    "content": "Her bir ruh, doğası gereği kutsaldır. Her bir ruh, özgürlüktür, sonsuz güçtür",
+    "author": "Swami Vivekananda",
+    "category": 5
+  },
+  {
+    "id": 871,
+    "content": "Merhamet, her kapıyı açan anahtardır. O, Tanrı’nın sevgisinin ifadesidir",
+    "author": "Papa Franciscus",
+    "category": 5
+  },
+  {
+    "id": 872,
+    "content": "Özgürlük hiç kimseye kolayca verilmez, bizlerin onu işlemesi gerekir. Bu günlük bir pratiktir. Kimse sizin her attığınız adımda ya da her nefes alıp verişinizde artan farkındalığınızın önüne geçemez",
+    "author": "Thich Nhat Hanh",
+    "category": 5
+  },
+  {
+    "id": 873,
+    "content": "Eğer sizden sokakları süpürmeniz istenirse, Michelangelo’nun resim yaptığı, Beethoven’ın beste yaptığı veya Shakspeare’in şiir yazdığı gibi süpürün. O kadar güzel süpürün ki, gökteki ve yerdeki herkes durup ‘Burada işini çok iyi yapan bir çöpçü yaşıyormuş’ desin…",
+    "author": "Martin Luther King",
+    "category": 5
+  },
+  {
+    "id": 874,
+    "content": "Mütevazı olun: Aceminin aklına pek çok olasılık gelir ama tecrübeli olanlar için olasılıklar sınırlıdır",
+    "author": "Shunryu Suzuki",
+    "category": 5
+  },
+  {
+    "id": 875,
+    "content": "Neyin yanlış olduğuna odaklanmayın. Her şey mükemmel olmayabilir, ancak her gün deneyimleme fırsatı için minnettar olun. Her günü son gününüzmüş gibi yaşayın",
+    "author": "Joel Osteen",
+    "category": 5
+  },
+  {
+    "id": 876,
+    "content": "Tanrı’nın yansımaları olan insanları görmezden gelip Tanrı’ya ibadet etmek neye yarar? Tanrı sevgisi insanları severek ifade bulur.",
+    "author": "Sathya Sai Baba",
+    "category": 5
+  },
+  {
+    "id": 877,
+    "content": "Ne kadar kutsal kitap okursanız okuyun ve ne kadar spiritüel egzersiz yaparsanız yapın. Kalbinizi merhamet duygusu ile eritmedikçe tüm yaşantınız boşa harcanmış olacaktır. Yapmış olduğunuz tüm spiritüel çalışmalar kalbinizi yumuşatıp, sevgi ve merhamet ile dolup taşması içindir",
+    "author": "Sathya Sai Baba",
+    "category": 5
+  },
+  {
+    "id": 878,
+    "content": "Bir altını asla bir hurdacıya götürme çünkü kıymetini bilmez",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 879,
+    "content": "Bilgelik, aslında sessiz kalmaktır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 880,
+    "content": "Gerçek güç, kendine hakim olmaktır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 881,
+    "content": "En büyük hazine, içsel huzurdur",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 882,
+    "content": "Gelecek, bugünün iyi kullanılmasında yatar",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 883,
+    "content": "Hayatta en çok ihtiyacımız olan şey, gözlerimizi açabilmek için içimizdeki ışığı bulmaktır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 884,
+    "content": "Başkalarını değiştiremezsiniz, sadece kendinizi değiştirebilirsiniz",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 885,
+    "content": "Huzur, kabul edemediğiniz şeyleri değiştirmeyi bıraktığınızda gelir",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 886,
+    "content": "Gerçek güzellik, kalpte ve ruhta parlar",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 887,
+    "content": "Bilge insanlar hatalarından öğrenir, daha bilgesi ise başkalarının hatalarından",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 888,
+    "content": "Hayatta en büyük zenginlik, sahip olduklarınız değil, sahip olamadıklarınızdır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 889,
+    "content": "Hayat bir kitaptır ve seyahat etmeyen, sadece bir sayfayı okur",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 890,
+    "content": "Bir ağaç, bir tohumun düşmesiyle büyür; bir yolculuk, bir adımla başlar",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 891,
+    "content": "Yağmur, her zaman yere düşen ilk damla değil, toprağın susuzluğunu hissettiği andır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 892,
+    "content": "Bir gemi, limanda güvende olabilir, ama gemiler limanlara değil, denizlere yapılmıştır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 893,
+    "content": "Bir an için sadece nefes al, her şey başka bir zaman gelir",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 894,
+    "content": "Bir insanın ne kadar yükseğe uçabileceğini keşfetmek için, kendisine ne kadar yük taşıyabileceğini görmelisiniz",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 895,
+    "content": "Güneşin altında hiçbir şey yeni değil, ama her gün bir mucize vardır",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 896,
+    "content": "Hayat, yalnızca yağmurlu günlerde dans etmek için değil, fırtınaların ortasında gülümsemek içindir",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 897,
+    "content": "Bir kandil, başka bir kandili tutuşturmakla ışığından bir şey kaybetmez",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 898,
+    "content": "Her gün, bir çiçek açar ve bir kuş öter, senin duymaman için değil, fark etmen içindir",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 899,
+    "content": "Bir insanı tanımak için, onunla bir yürüyüş yap. Bu yalnızca kendi ayak izlerini değil, aynı zamanda ruhunu da bıraktığı yerleri görmene izin verir",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 900,
+    "content": "Bir kitap, bir yolculuktur. Sayfalar arasında dolaşırken, kendini bulduğun anlarla dolu bir serüvene çıkarsın",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 901,
+    "content": "Kuralsız olan sıradan olur, sıradan olan akılda kalmaz, akılda kalmayan iz bırakmaz, farkın yoksa yoksun demektir!",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 902,
+    "content": "Gökyüzüne baktığında yıldızları sayma; onları gözlerinle görebilirsin, ancak yalnızca kalbinle hissedebilirsin",
+    "author": null,
+    "category": 6
+  },
+  {
+    "id": 903,
+    "content": "Devletlerin refahı parayla değil adaletle ölçülür",
+    "author": "Konfüçyüs",
+    "category": 7
+  },
+  {
+    "id": 904,
+    "content": "İyi olmak kolaydır, zor olan adil olmaktır",
+    "author": "Victor Hugo",
+    "category": 7
+  },
+  {
+    "id": 905,
+    "content": "Adaletin olmadığı yerde ahlaktan bahsedilemez",
+    "author": "Montaigne",
+    "category": 7
+  },
+  {
+    "id": 906,
+    "content": "Geç kalan adalet adaletsizliktir",
+    "author": "Landor",
+    "category": 7
+  },
+  {
+    "id": 907,
+    "content": "Sevginin kurduğu devleti adalet devam ettirir",
+    "author": "Farabi",
+    "category": 7
+  },
+  {
+    "id": 908,
+    "content": "Bir yargıç: iyi niyetle dinlemeli, akıllıca karşılık vermeli, sağlıklı düşünmeli, tarafsızca karar vermelidir",
+    "author": "Sokrates",
+    "category": 7
+  },
+  {
+    "id": 909,
+    "content": "Adalet, herkesin kendi işini yapması ve başkasının işine karışmamasıdır",
+    "author": "Platon",
+    "category": 7
+  },
+  {
+    "id": 910,
+    "content": "Bir insana yapılan adaletsizlik, tüm insanlığa karşı işlenmiş bir suçtur",
+    "author": "Kant",
+    "category": 7
+  },
+  {
+    "id": 911,
+    "content": "Kılıcın yapamadığını adalet yapar",
+    "author": "Kanuni Sultan Süleyman",
+    "category": 7
+  },
+  {
+    "id": 912,
+    "content": "Kuvvete dayanmayan adalet aciz, adalete dayanmayan kuvvet zalimdir",
+    "author": "Blaise Pascal",
+    "category": 7
+  },
+  {
+    "id": 913,
+    "content": "Kuvvetsiz adalet ve adaletsiz kuvvet iki büyük felakettir",
+    "author": "Joseph Loubert",
+    "category": 7
+  },
+  {
+    "id": 914,
+    "content": "Kılıç, zaferleri; zeka siyasi üstünlüğü; adalet de ahlaki muzafferiyeti temin eder",
+    "author": "Simeon Luce",
+    "category": 7
+  },
+  {
+    "id": 915,
+    "content": "Adaletin kuvvetli, kuvvetlerin de adaletli olmaları gerekir",
+    "author": "Pascal",
+    "category": 7
+  },
+  {
+    "id": 916,
+    "content": "Adaletin hakim olduğu yerde, silahın yeri yoktur",
+    "author": "J. Anyot",
+    "category": 7
+  },
+  {
+    "id": 917,
+    "content": "Devletlerin sarsılmayan temelini adalet teşkil eder",
+    "author": "J.W. Pindare",
+    "category": 7
+  },
+  {
+    "id": 918,
+    "content": "Adalet, insan topluluğunun kudsi bir bağıdır",
+    "author": "P.De Guizot",
+    "category": 7
+  },
+  {
+    "id": 919,
+    "content": "Adalet kâinatın ruhudur",
+    "author": "Ömer Hayyam",
+    "category": 7
+  },
+  {
+    "id": 920,
+    "content": "Ülkeler kılıçla alınır, ancak adalet korunur",
+    "author": "Timurlenk",
+    "category": 7
+  },
+  {
+    "id": 921,
+    "content": "Adalet halkın gıdasıdır, insan ona daima muhtaçtır",
+    "author": "F.R.V.de Chateaubriand",
+    "category": 7
+  },
+  {
+    "id": 922,
+    "content": "Adalet dünyadan kalkarsa, insan hayatına değer verecek bir şey kalmaz",
+    "author": "İ. Kant",
+    "category": 7
+  },
+  {
+    "id": 923,
+    "content": "Adaletsiz bir ülke mezbahadan başka bir şey değildir",
+    "author": "Georges Clemencau",
+    "category": 7
+  },
+  {
+    "id": 924,
+    "content": "Adelat topaldır, ağır ağır yürür, fakat gideceği yere er",
+    "author": "geç varır",
+    "category": 7
+  },
+  {
+    "id": 925,
+    "content": "Geç kalan adalet adaletsizliktir",
+    "author": "W. Savage Landor",
+    "category": 7
+  },
+  {
+    "id": 926,
+    "content": "Adalet, kutupyıldızı gibi yerinde durur ve geri kalan her şey onun çevresinde döner",
+    "author": "Confucius",
+    "category": 7
+  },
+  {
+    "id": 927,
+    "content": "Adaletsizliği işleyen, çekenden daha sefildir",
+    "author": "Eflatun",
+    "category": 7
+  },
+  {
+    "id": 928,
+    "content": "Haksızlığa sapıp bütün insanların senin peşinden gelmeleri yerine duru ve geri kalan her şey onun çevresinde döner",
+    "author": "Confucius",
+    "category": 7
+  },
+  {
+    "id": 929,
+    "content": "Adaletsizliği işleyen, çekenden daha sefildir",
+    "author": "Eflatun",
+    "category": 7
+  },
+  {
+    "id": 930,
+    "content": "Haksızlığa sapıp bütün insanların senin peşinden gelmeleri yerine, adaletli davranıp tek başına kalman daha iyidir",
+    "author": "Mahatma Gandhi",
+    "category": 7
+  },
+  {
+    "id": 931,
+    "content": "Adalet haksız olana zulüm gibi gelir",
+    "author": "Daniel Defoe",
+    "category": 7
+  },
+  {
+    "id": 932,
+    "content": "Bir duruşmada tek tarafı dinleyerek verilen karar doğru olsa bile, hiçbir zaman adil olmaz",
+    "author": "L.A. Seneca",
+    "category": 7
+  },
+  {
+    "id": 933,
+    "content": "Çok kimse haksızlığa uğramaktan korktuğu için adalete inanır",
+    "author": "François V. La Rochefoucauld",
+    "category": 7
+  },
+  {
+    "id": 934,
+    "content": "Kaadıy ola da'vacı ve munzır şahid, Ol mahkemenin hükmüne derler mi adalet",
+    "author": "Ziya Paşa",
+    "category": 7
+  },
+  {
+    "id": 935,
+    "content": "Kötülüğü adaletli, iyiliği de iyilikle karşıla",
+    "author": "Lao Tse",
+    "category": 7
+  },
+  {
+    "id": 936,
+    "content": "Adalet ancak hakikatten, saadet ancak adaletten doğabilir",
+    "author": "Emile Zola",
+    "category": 7
+  },
+  {
+    "id": 937,
+    "content": "Hayatımın en mühim prensibi, kimseye hiçbir şekilde adaletsiz davranmamaktır",
+    "author": "Socrates",
+    "category": 7
+  },
+  {
+    "id": 938,
+    "content": "İyi olmak kolaydır, zor olan adil olmaktır",
+    "author": "V. Hugo",
+    "category": 7
+  },
+  {
+    "id": 939,
+    "content": "Adaleti, aklın yardımı olmadan yerine getirmek imkânsızdır",
+    "author": "J.A. Froude",
+    "category": 7
+  },
+  {
+    "id": 940,
+    "content": "Adalet hissi insanlarda doğuştan mevcuttur",
+    "author": "Çiçero",
+    "category": 7
+  },
+  {
+    "id": 941,
+    "content": "Adalet, haksız olana haksızlık gibi gelir. Çünkü her insan kendi gözünde suçsuzdur",
+    "author": "Daniel Defoe",
+    "category": 7
+  },
+  {
+    "id": 942,
+    "content": "Kuvvete dayanmayan adalet güçsüz, adalete dayanmayan kuvvet acımasızdır",
+    "author": "Pascal",
+    "category": 7
+  },
+  {
+    "id": 943,
+    "content": "Adaletin yasalarında bile mutlaka adaletsiz bir taraf vardır",
+    "author": "Monteigne",
+    "category": 7
+  },
+  {
+    "id": 944,
+    "content": "Adalet dünyadan kalkarsa, insan hayatına değer verecek bir şey kalmaz",
+    "author": "Kant",
+    "category": 7
+  },
+  {
+    "id": 945,
+    "content": "Adaletsiz bir ülke mezbahadan başka bir şey değildir",
+    "author": "Clemenceau",
+    "category": 7
+  },
+  {
+    "id": 946,
+    "content": "Adaletin gecikmesi adaletsizliktir",
+    "author": "Landor",
+    "category": 7
+  },
+  {
+    "id": 947,
+    "content": "Haksızlığa yönelip bütün insanların senin peşinden gelmesi yerine, adaletli olup yalnız kalman daha iyidir",
+    "author": "M. Gandı",
+    "category": 7
+  },
+  {
+    "id": 948,
+    "content": "Bırakın adalet yerini bulsun, isterse kıyamet kopsun",
+    "author": "Freud",
+    "category": 7
+  },
+  {
+    "id": 949,
+    "content": "Bir yerdeki haksızlık, adalet için her yerde tehlikedir",
+    "author": "Martin Luther King",
+    "category": 7
+  },
+  {
+    "id": 950,
+    "content": "Hukuk bir gün herkese lazım olur",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 951,
+    "content": "Toplumda en büyük güveni her şeyin sonunda adil bir mahkemenin bulunabileceği inancı sağlar",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 952,
+    "content": "Ne zulüm, ne merhamet yalnızca adalet",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 953,
+    "content": "İnsanlar ancak adaletle doyurulur",
+    "author": "Emerson",
+    "category": 7
+  },
+  {
+    "id": 954,
+    "content": "Adalet önce devletten gelir",
+    "author": "Aristo",
+    "category": 7
+  },
+  {
+    "id": 955,
+    "content": "Bir davada karşı tarafı dinlemeden verilen karar doğru olsa bile hiçbir zaman adil olamaz",
+    "author": "Seneca",
+    "category": 7
+  },
+  {
+    "id": 956,
+    "content": "Bir tek kişiye yapılan bir haksızlık, bütün topluma yapılan bir tehdittir",
+    "author": "Montesquieu",
+    "category": 7
+  },
+  {
+    "id": 957,
+    "content": "İnsanların çoğunda adalet sevgisi, adaletsizlik korkusu yüzünden vardır",
+    "author": "La Rochefoucauld",
+    "category": 7
+  },
+  {
+    "id": 958,
+    "content": "Hiçbir şey devlete, yasalara saygılı olmak kadar yaraşmaz",
+    "author": "Justiniaus Kanunları",
+    "category": 7
+  },
+  {
+    "id": 959,
+    "content": "İnsancıl olmadıkça adil olamazsın",
+    "author": "Vauvenargues",
+    "category": 7
+  },
+  {
+    "id": 960,
+    "content": "Bir rejim, halkın adalete inanmaz bir hale geldiği noktaya gelince o rejim mahkûm olmuştur",
+    "author": "Montesquieu",
+    "category": 7
+  },
+  {
+    "id": 961,
+    "content": "Adalet kutup yıldızı gibi yerinde durur ve geri kalan her şey onun etrafında döner",
+    "author": "Konfüçyus",
+    "category": 7
+  },
+  {
+    "id": 962,
+    "content": "Adalet olmadan düzen olmaz",
+    "author": "Albert Camus",
+    "category": 7
+  },
+  {
+    "id": 963,
+    "content": "Adaletsizliği işleyen, çekenden daha sefildir",
+    "author": "Eflatun",
+    "category": 7
+  },
+  {
+    "id": 964,
+    "content": "Devlet halktan mucize beklememelidir. O, halkı kendisine uydurmak için yasalara boyun eğmeyi öğretecektir",
+    "author": "Montesquieu",
+    "category": 7
+  },
+  {
+    "id": 965,
+    "content": "Adaletin hedef ve gayesi eşitliği sağlamaktır",
+    "author": "İhering",
+    "category": 7
+  },
+  {
+    "id": 966,
+    "content": "Hukuk ile medeniyet ve kültürleri arasında ahenk kuramayan cemiyetler bedbahttırlar",
+    "author": "Falih Rıfkı atay",
+    "category": 7
+  },
+  {
+    "id": 967,
+    "content": "Hukukun buyrukları şunlardır: Dürüst yaşamak, başkasına zarara uğratmamak, herkesin hakkını vermek",
+    "author": "Ulpianus",
+    "category": 7
+  },
+  {
+    "id": 968,
+    "content": "Ahlakın olmadığı yerde kanun bir şey yapamaz",
+    "author": "Napoleon",
+    "category": 7
+  },
+  {
+    "id": 969,
+    "content": "Hükümdar haksız olarak bir köylüden yumurta alırsa, adamları köylünün bütün tavuklarını alır",
+    "author": "Sadi",
+    "category": 7
+  },
+  {
+    "id": 970,
+    "content": "Adaletsiz rejimi, adaletle yıkınız.",
+    "author": "Gandhı",
+    "category": 7
+  },
+  {
+    "id": 971,
+    "content": "Adaletin küçüldüğü ülkelerde, büyük olan artık suçlulardır.",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 972,
+    "content": "Adalet topaldır, ağır yürür fakat gideceği yere er geç varır",
+    "author": "Mirabeau",
+    "category": 7
+  },
+  {
+    "id": 973,
+    "content": "Adalet olunca yiğitliğe lüzum kalmaz",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 974,
+    "content": "Adalet ancak hakikatten, saadet ancak adaletten doğabilir",
+    "author": "Anatole France",
+    "category": 7
+  },
+  {
+    "id": 975,
+    "content": "Haklı olduğunuza inanıyorsanız, sakin olmayı başarabilirsiniz",
+    "author": "Bud Holiday",
+    "category": 7
+  },
+  {
+    "id": 976,
+    "content": "Adaletin hâkim olduğu yerde silahın yeri yoktur.",
+    "author": "Amyot",
+    "category": 7
+  },
+  {
+    "id": 977,
+    "content": "Davalının aptalı, derdini mübaşire anlatırmış",
+    "author": "Kilis sözü",
+    "category": 7
+  },
+  {
+    "id": 978,
+    "content": "Bir devletin yıkılışıyla birlikte yasaları da çoğalır",
+    "author": "Tacitus",
+    "category": 7
+  },
+  {
+    "id": 979,
+    "content": "Doğru olan, haklı olandır",
+    "author": "Alexander Pope",
+    "category": 7
+  },
+  {
+    "id": 980,
+    "content": "Hak yerde kalmaz",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 981,
+    "content": "Suçu toplum hazırlar, suçlu işler",
+    "author": "Buckle",
+    "category": 7
+  },
+  {
+    "id": 982,
+    "content": "Görevimizi yaparken kimseye, ne müvekkile, ne hâkime, hele ne iktidara tabiyiz. Bizim aşağımızda kişilerin varlığı iddiasında değiliz. Fakat hiçbir hiyerarşik üst de tanımıyoruz. En kıdemsizin en kıdemliden veya isim yapmış olandan farkı yoktur. Avukatlar tarih boyu köle kullanmadılar ama hiçbir zaman efendileri de olmadı!",
+    "author": "Molierac",
+    "category": 7
+  },
+  {
+    "id": 983,
+    "content": "Hiçbir suç hazırlıksız işlenmemiştir",
+    "author": "Seneca",
+    "category": 7
+  },
+  {
+    "id": 984,
+    "content": "En yıkıcı, en öldürücü yara haksızlık yarasıdır",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 985,
+    "content": "Ceza kaldırılabilir; ama suç insanın içinde sonsuza kadar yaşar",
+    "author": "Ovidius",
+    "category": 7
+  },
+  {
+    "id": 986,
+    "content": "Suç, insana ömrünün ilk yıllarında öğretilirse, o insanın kişiliğine yerleşir kalır",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 987,
+    "content": "Bir yargıç, iyi niyetle dinlemeli, akıllıca karşılık vermeli, sağlıklı düşünmeli, tarafsızca karar vermelidir",
+    "author": "Sokrates",
+    "category": 7
+  },
+  {
+    "id": 988,
+    "content": "Bir kişinin sözleri önemli değildir; iki yanı da dinlemeli",
+    "author": "Goethe",
+    "category": 7
+  },
+  {
+    "id": 989,
+    "content": "Ne kadar yüksekte olursan ol, yasalar senden de yüksektir",
+    "author": "Thomas Fuller",
+    "category": 7
+  },
+  {
+    "id": 990,
+    "content": "Yazılı yasalar örümcek ağları gibidir: zayıfları yakalar, güçlüler deler geçer",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 991,
+    "content": "Yasaların uygulaması, onların yapılmasından daha zordur",
+    "author": "Jefferson",
+    "category": 7
+  },
+  {
+    "id": 992,
+    "content": "Kötü yasalar, zulmün en berbat şeklidir",
+    "author": "Burke",
+    "category": 7
+  },
+  {
+    "id": 993,
+    "content": "Yasaların bittiği yerde zulüm başlar",
+    "author": "Lord Chatham",
+    "category": 7
+  },
+  {
+    "id": 994,
+    "content": "Yasama, yürütme yargı içiçe geçmişse, özgürlükler garantide değilse, anayasa yok demektir. Kuvvet kimdeyse o hâkimdir",
+    "author": "Jean",
+    "category": 7
+  },
+  {
+    "id": 995,
+    "content": "Adalet nerede hesap sorarsa, merhamet orada haklarını kaybeder",
+    "author": "Refik Halid Karay",
+    "category": 7
+  },
+  {
+    "id": 996,
+    "content": "Adalet ancak hakikatten, saadet ancak adaletten doğabilir",
+    "author": "Anatole France",
+    "category": 7
+  },
+  {
+    "id": 997,
+    "content": "Adalet, insan topluluğunun kutsî bağıdır",
+    "author": "P.D. Guozıt",
+    "category": 7
+  },
+  {
+    "id": 998,
+    "content": "Adaleti, aklın yardımı olmadan yerine getirmek imkânsızdır",
+    "author": "J. A. Froude",
+    "category": 7
+  },
+  {
+    "id": 999,
+    "content": "Adaletsizliği bir yangından daha çabuk önlemeliyiz",
+    "author": "Herakleıtos",
+    "category": 7
+  },
+  {
+    "id": 1000,
+    "content": "Adalet olunca yiğitliğe lüzum kalmaz",
+    "author": null,
+    "category": 7
+  },
+  {
+    "id": 1001,
+    "content": "Adaleti seven bir insan için her yer emindir",
+    "author": "Epıktetos",
+    "category": 7
+  },
+  {
+    "id": 1002,
+    "content": "Adalet evrenin ruhudur",
+    "author": "Ömer Hayyam",
+    "category": 7
+  },
+  {
+    "id": 1003,
+    "content": "Adaletin olmadığı yerde ahlaktan bahsedilemez",
+    "author": "Eflatun",
+    "category": 7
+  },
+  {
+    "id": 1004,
+    "content": "Memleketin nasıl yönetildiğini anlamak mı istiyorsunuz; onun müziğine kulak veriniz. Nerede güzel eserlerden oluşmuş uyum vardır, orada adalet ve erdem hüküm sürer",
+    "author": "Konfüçyus",
+    "category": 7
+  },
+  {
+    "id": 1005,
+    "content": "Her rejimin temeli adalettir. Bir halka hürriyet, ahlak ve şeref ölçüsünü veren odur",
+    "author": "E.A Roth",
+    "category": 7
+  },
+  {
+    "id": 1006,
+    "content": "İnsanlığın en güzel vazifesi adalet dağıtmasıdır",
+    "author": "Voltaire",
+    "category": 7
+  },
+  {
+    "id": 1007,
+    "content": "imkan olursa sulh, fakat ne olursa olsun adalet",
+    "author": "V.Phlips",
+    "category": 7
+  },
+  {
+    "id": 1008,
+    "content": "İyi kanunlar vicdanın yazılmış şeklinden ibarettir",
+    "author": "Chateaubriand",
+    "category": 7
+  },
+  {
+    "id": 1009,
+    "content": "adalet kâinatın ruhudur",
+    "author": "Carly",
+    "category": 7
+  },
+  {
+    "id": 1010,
+    "content": "Adalet, tabiatın nizamına uymaktır. İnsanları ahlaki mertebelere göre ayırmaktır. Hürlerin esirlere, bütünlerin noksanlara, kudretlilerin acizlere, sevenlerin sevmesini bilmeyenlere karşı borcudur",
+    "author": "Hilmi Ziya Ülken",
+    "category": 7
+  },
+  {
+    "id": 1011,
+    "content": "insanları yalnız ve ancak adalet tatmin eder",
+    "author": "G. Emerson",
+    "category": 7
+  },
+  {
+    "id": 1012,
+    "content": "Adaleti konuşmaktan çekinmeyiniz",
+    "author": "Atatürk",
+    "category": 7
+  },
+  {
+    "id": 1013,
+    "content": "Siyaset mahkeme salonlarına girdiği anda adalet oradan çıkmalıdır",
+    "author": "Guizot",
+    "category": 7
+  },
+  {
+    "id": 1014,
+    "content": "Adaletin değirmeni tam fakat yavaş öğütür",
+    "author": "Care Herbert",
+    "category": 7
+  },
+  {
+    "id": 1015,
+    "content": "Adaletin şerefi ve zaferi avukatlık mesleğinin şeref ve zaferidir",
+    "author": "Esobe",
+    "category": 7
+  },
+  {
+    "id": 1016,
+    "content": "Milletlerin direnemeyecekleri tek kuvvet adalettir",
+    "author": "Cresson",
+    "category": 7
+  },
+  {
+    "id": 1017,
+    "content": "Kılıcın yapamadığını adalet yapar",
+    "author": "Kanuni Sultan Süleyman",
+    "category": 7
+  },
+  {
+    "id": 1018,
+    "content": "Tanrı, adaletini onu sevene verir",
+    "author": "Amenemope",
+    "category": 7
+  },
+  {
+    "id": 1019,
+    "content": "Kötülüğü adaletle, iyiliği iyilikle karşıla",
+    "author": "La o",
+    "category": 7
+  },
+  {
+    "id": 1020,
+    "content": "Gökyüzü kafana düşse de yine adaletten şaşma",
+    "author": "W.watson",
+    "category": 7
+  },
+  {
+    "id": 1021,
+    "content": "Eğer adalet kaybolursa insanların dünyada yaşamalarının manası kalmaz",
+    "author": "Goethe",
+    "category": 7
+  },
+  {
+    "id": 1022,
+    "content": "Adaletsizlik hükme acılık, geciktirmede tatsızlık verir",
+    "author": "Bacon",
+    "category": 7
+  },
+  {
+    "id": 1023,
+    "content": "Zayıf daima adalet ve eşitlik ister, halbuki bunlar kuvvetlinin umurunda değildir",
+    "author": "Aristoteles",
+    "category": 7
+  },
+  {
+    "id": 1024,
+    "content": "Bırakın adalet yerini bulsun isterse kıyamet kopsun",
+    "author": "W.Watson",
+    "category": 7
+  },
+  {
+    "id": 1025,
+    "content": "Adalet kadar büyük ve tanrısal bir erdem yoktur",
+    "author": "Joseph addison",
+    "category": 7
+  },
+  {
+    "id": 1026,
+    "content": "Kılıç ; zaferleri, zeka siyasi üstünlüğü, adalet de ahlaki muzafferiyeti temin eder",
+    "author": "Simeon Luce",
+    "category": 7
+  },
+  {
+    "id": 1027,
+    "content": "Adaleti yüksek bir kanun olarak kabul etmekten vazgeçen millet, bu felaketini hiçbir başarı ile telafi edemez",
+    "author": "Channıng",
+    "category": 7
+  },
+  {
+    "id": 1028,
+    "content": "Çok kimse haksızlığa uğramaktan korktuğu için adalete inanır",
+    "author": "La Rochefoucauld",
+    "category": 7
+  },
+  {
+    "id": 1029,
+    "content": "Medeniyetin ilk şartı adalettir",
+    "author": "Sigmund Freud",
+    "category": 7
+  },
+  {
+    "id": 1030,
+    "content": "Eğitimli İnsanlar öncelikle adalete değer verir. Eğitimli insanlar adalet olmadan cesaret sahibi olunca asi olurlar. Küçük insanlar adalet olmadan cesaret sahibi olunca haydut olurlar",
+    "author": "Konfüçyüs",
+    "category": 7
+  },
+  {
+    "id": 1031,
+    "content": "Daha fazla yasa daha az adalet demektir",
+    "author": "Marcus Tullius Cicero",
+    "category": 7
+  }
 ]
